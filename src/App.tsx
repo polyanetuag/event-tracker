@@ -5,6 +5,7 @@ import Formulario from './components/Formulario';
 import { IEvento } from './interfaces/IEvento';
 import Calendario from './components/Calendario';
 import ListaDeEventos from './components/ListaDeEventos';
+import {RecoilRoot} from 'recoil'
 
 function App() {
 
@@ -57,6 +58,7 @@ function App() {
     );
 
   return (
+    <RecoilRoot>
     <div className={style.App}>
       <div className={style.Coluna}>
         <Card>
@@ -71,6 +73,7 @@ function App() {
         <Calendario eventos={eventos} />
       </div>
     </div>
+    </RecoilRoot>
   );
 }
 
