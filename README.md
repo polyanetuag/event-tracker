@@ -5,7 +5,7 @@
 </div>
 
 ## 📚 Sobre
-
+O projeto em questão é um calendário de eventos.
 
 ## 🚀 Tecnologias Utilizadas
 
