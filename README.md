@@ -7,7 +7,7 @@
 ## 📚 Sobre
 O projeto em questão é um calendário de eventos.
 
-O principal objetivo foi fazer a refatoração deste projeto, deixando-o mais escalável para futuras implementações.
+O principal objetivo foi fazer a refatoração deste projeto, já pronto, deixando-o mais escalável para futuras implementações.
 
 ## 🚀 Tecnologias Utilizadas
 - React Js
