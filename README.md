@@ -12,6 +12,7 @@ O principal objetivo foi fazer a refatoração deste projeto, já pronto, deixan
 ## 🚀 Tecnologias Utilizadas
 - React Js
 - Recoil library
+- Sass
 
 ## ⏱️ Iniciar projeto
 
