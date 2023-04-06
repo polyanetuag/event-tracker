@@ -13,6 +13,7 @@ O principal objetivo foi fazer a refatoração deste projeto, já pronto, deixan
 - React Js
 - Recoil library
 - Sass
+- Css modules
 - Typescript
 
 ## ⏱️ Iniciar projeto
