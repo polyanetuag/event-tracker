@@ -11,7 +11,7 @@ O principal objetivo foi fazer a refatoração deste projeto, deixando-o mais es
 
 ## 🚀 Tecnologias Utilizadas
 - React Js
-- Recoil library
+- Recoil
 - Sass
 - Css modules
 - Typescript
