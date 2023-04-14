@@ -5,7 +5,7 @@
 </div>
 
 ## 📚 Sobre
-O projeto em questão é um calendário de eventos.
+O projeto em questão é um calendário de eventos. Possui as funcionalidades de adicionar, editar e excluir eventos e um filtro de busca.
 
 O principal objetivo foi fazer a refatoração deste projeto, deixando-o mais escalável para futuras implementações.
 
