@@ -1,7 +1,7 @@
 <h1 align="center">Alura Event Tracker</h1>
 
 <div align="center">
-    <img width='375' src="./public/demo.gif">
+    <img width='600' src="./public/demo.gif">
 </div>
 
 ## 📚 Sobre
