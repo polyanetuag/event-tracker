@@ -5,7 +5,7 @@
 </div>
 
 ## 📚 Sobre
-O projeto em questão é um calendário de eventos. Possui as funcionalidades para adicionar, editar e excluir eventos, como também fazer a busca do evento por dia no calendário.
+O projeto consiste em um calendário de eventos. Possui as funcionalidades para adicionar, editar e excluir eventos, como também fazer a busca do evento por dia no calendário.
 
 O principal objetivo foi fazer a refatoração deste projeto, removendo o encapsulamento do Recoil e de props, deixando-o mais escalável para futuras implementações.
 
