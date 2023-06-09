@@ -1,4 +1,4 @@
-<h1 align="center">Alura Event Tracker 🗓️</h1>
+<h1 align="center">Alura Event Tracker</h1>
 
 <div align="center">
     <img width='800' src="./public/demo.gif">
