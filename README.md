@@ -11,7 +11,7 @@ O projeto consiste em um calendário para eventos. Possui as funcionalidades de 
 O principal objetivo foi fazer a refatoração deste projeto, removendo o encapsulamento do Recoil e as dependências de props nos componentes, deixando-o mais escalável para futuras implementações.
 
 ## 🚀 Tecnologias Utilizadas
-- ReactJs
+- [ReactJs](https://react.dev/learn)
 - Recoil
 - Sass
 - Css modules
