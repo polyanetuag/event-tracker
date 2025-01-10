@@ -12,7 +12,7 @@ O principal objetivo foi fazer a refatoração deste projeto, removendo o encaps
 
 ## 🚀 Tecnologias Utilizadas
 - [ReactJs](https://react.dev/learn)
-- Recoil
+- [Recoil](https://recoiljs.org/)
 - Sass
 - Css modules
 - Typescript
