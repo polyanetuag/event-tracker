@@ -14,7 +14,7 @@ O principal objetivo foi fazer a refatoração deste projeto, removendo o encaps
 - [ReactJs](https://react.dev/learn)
 - [Recoil](https://recoiljs.org/)
 - [Sass](https://sass-lang.com/)
-- Css modules
+- [Css modules](https://github.com/css-modules/css-modules)
 - Typescript
 
 ## ⏱️ Iniciar projeto
