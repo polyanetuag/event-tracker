@@ -15,7 +15,7 @@ O principal objetivo foi fazer a refatoração deste projeto, removendo o encaps
 - [Recoil](https://recoiljs.org/)
 - [Sass](https://sass-lang.com/)
 - [Css modules](https://github.com/css-modules/css-modules)
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 
 ## ⏱️ Iniciar projeto
 
