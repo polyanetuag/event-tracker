@@ -8,7 +8,7 @@
 ## 📚 Sobre
 O projeto consiste em um calendário para adicionar eventos. Possui as funcionalidades para adicionar, editar e excluir eventos, como também um campo de busca do evento por dia no calendário.
 
-O principal objetivo foi fazer a refatoração deste projeto, removendo o encapsulamento do Recoil e as dependências de props nos componentes, deixando-o mais genérico e escalável para futuras implementações.
+O principal objetivo foi fazer a refatoração deste projeto, removendo o encapsulamento do Recoil e as dependências de props nos componentes, deixando-o mais genérico, reutilizá-vel e escalável para futuras implementações.
 
 ## 🚀 Tecnologias Utilizadas
 - [ReactJs](https://react.dev/learn)
